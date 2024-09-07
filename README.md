@@ -1,5 +1,6 @@
 # Tata-Motors-Dashboard
 "An interactive Excel dashboard analyzing Tata Motors' stock performance (2019-2024). Features include stock price trends, returns, volatility, and financial insights. Built using advanced Excel skills with dynamic year/month filters."
+
 "Tata Motors Stock Performance Dashboard: This Excel-based interactive dashboard provides a detailed financial analysis of Tata Motors from 2019 to 2024. Key features include:
 Stock Price Movements: Analysis of open and close price trends across years
 Performance Metrics: Visualizations of daily and cumulative returns
